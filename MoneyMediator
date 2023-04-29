@@ -1,7 +1,0 @@
-import sqlite3
-
-conn = sqlite3.connect("expenses.db")
-
-cur = conn.cursor()
-
-cur.execute()
